@@ -25,9 +25,6 @@ Depending on the version, the portfolio uses:
 * **HTML5**
 * **CSS3**
 * **JavaScript**
-
-OR
-
 * **React**
 * **Vite**
 * **Tailwind CSS**
@@ -47,7 +44,7 @@ portfolio/
 │   └── main.jsx / main.js
 ├── public/
 ├── README.md
-└── package.json (if using React)
+└── package.json
 ```
 
 ---
@@ -64,18 +61,6 @@ This portfolio avoids buzzwords and focuses on **clarity, simplicity, and substa
 ---
 
 ## ▶️ Running Locally
-
-### If using HTML/CSS/JS
-
-Simply open:
-
-```
-index.html
-```
-
-in your browser.
-
-### If using React + Vite
 
 Install dependencies:
 
@@ -118,12 +103,5 @@ Older projects are kept intentionally to reflect my learning journey.
 
 ---
 
-## 📬 Contact
-
-* GitHub: *(link on website)*
-* LinkedIn: *(link on website)*
-* Email: *(link on website)*
-
----
 
 ⭐ If you find this portfolio clean and useful, feel free to explore the projects!
