@@ -20,7 +20,7 @@ const Index = () => {
           name="keywords"
           content="Ashambar Chaturvedi, software engineer, developer, Python, C++, web development, portfolio"
         />
-        <link rel="canonical" href="https://ashambar.dev" />
+        <link rel="canonical" href="https://coolchamp26.github.io/" />
       </Helmet>
 
       <div className="min-h-screen bg-background">
