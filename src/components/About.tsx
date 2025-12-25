@@ -15,14 +15,14 @@ const About = () => {
           <div className="space-y-5 text-muted-foreground leading-relaxed">
             <p>
               I'm a student developer who genuinely enjoys understanding how things work under the hood. 
-              I started programming out of curiosity and built my first complete project in Class 12 — 
-              that experience taught me more about problem-solving than any tutorial could.
+              I started programming out of curiosity and built my first project in Class 12.
+              That experience taught me more about problem-solving than any tutorial could.
             </p>
 
             <p>
               Right now, I'm focused on strengthening my fundamentals: data structures, algorithms, 
               and writing clean, readable code. I believe that a strong foundation makes everything else 
-              easier to learn. I'm not chasing every new framework — I'd rather understand <em>why</em> 
+              easier to learn. I'm not chasing every new framework, I'd rather understand <em>why</em>
               something works before using it.
             </p>
 
@@ -36,7 +36,7 @@ const About = () => {
             <p>
               What drives me is the satisfaction of solving a problem after hours of thinking about it, 
               and the excitement of building something that actually works. I'm not claiming to be an 
-              expert — I'm just someone who's putting in the work to get better every day.
+              expert, I'm just someone who's putting in the work to get better every day.
             </p>
           </div>
 
